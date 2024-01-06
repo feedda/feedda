@@ -1,12 +1,3 @@
-<style>
-  body {
-    background-color: #000;
-    color: #fff;
-    font-family: Arial, sans-serif;
-    text-align: center;
-  }
-</style>
-
 # Hi there! 👋 I'm [Your Name], a Statistician and Data Scientist
 
 ## About Me
@@ -54,4 +45,3 @@ I'm always open to collaboration and eager to contribute to interesting projects
 
 ---
 
-Feel free to copy and paste this Markdown content into your GitHub README. Remember that not all platforms support embedded styles in Markdown, so the appearance might vary on different platforms.
