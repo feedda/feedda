@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate statistician and data scientist currently honing my skills in Python, R, HTML, and JavaScript. With a strong foundation in data visualization, curation, and analysis, I am eager to contribute to impactful projects and explore the realms of data-driven insights.
+I am a passionate statistician and data scientist currently honing my skills in Python, R, HTML, and JavaScript. With a little foundation in data visualization, curation, and analysis, I am eager to contribute to impactful projects and explore the realms of data-driven insights.
 
 ## Skills I am Currently Learning
 
