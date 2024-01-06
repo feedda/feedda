@@ -1,28 +1,28 @@
-# Hi there! 👋 I'm [Your Name], a Statistician and Data Scientist
+# Hi there! 👋 I'm Fatima Usman Muhammad, a Statistician and Data Scientist
 
 ## About Me
 
 I am a passionate statistician and data scientist currently honing my skills in Python, R, HTML, and JavaScript. With a strong foundation in data visualization, curation, and analysis, I am eager to contribute to impactful projects and explore the realms of data-driven insights.
 
-## Skills
+## Skills I am Currently Learning
 
 - **Programming Languages:** Python, R, HTML, JavaScript
 - **Data Analysis:** Pandas, NumPy, R dplyr, ggplot2
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **Data Visualization:** Matplotlib, Seaborn, ggplot2, D3.js
+- **Data Visualization:** Matplotlib, Seaborn
 - **Database:** SQL
 - **Version Control:** Git
 - **Web Development:** Basic HTML, JavaScript
 
 ## Projects
 
-### Project 1: [Project Name]
+### Project 1: Lung Capacity
 
-Brief description of the project and its impact.
+I am currently working on a lung capacity project to leverage the correlations between lungs and other variables such as age, heigh, gender etc. using Statistical method 
 
 ### Project 2: [Project Name]
 
-Brief description of the project and its impact.
+I intends to embark on a research on Kidney diseases using Machine Learning techniques
 
 ## Learning Journey
 
@@ -34,14 +34,14 @@ I am continually expanding my knowledge in various areas:
 
 ## Connect with Me
 
-- [LinkedIn](Your LinkedIn Profile URL)
-- [Twitter](Your Twitter Profile URL)
+- [(Your LinkedIn Profile URL)](https://www.linkedin.com/feed/)
+- [[Twitter](Your Twitter Profile URL)](https://twitter.com/home)
 
 ## Let's Collaborate!
 
 I'm always open to collaboration and eager to contribute to interesting projects. If you have any opportunities or just want to connect, feel free to reach out!
 
-📧 [Email](Your Email Address)
+📧 fatimausman300@gmail.com
 
 ---
 
