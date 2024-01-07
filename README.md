@@ -37,8 +37,8 @@ I am continually expanding my knowledge in various areas:
 
 ## Connect with Me
 
-- [(Your LinkedIn Profile URL)](https://www.linkedin.com/feed/)
-- [[Twitter](Your Twitter Profile URL)](https://twitter.com/home)
+- (https://www.linkedin.com/feed/)
+- (https://twitter.com/home)
 
 ## Let's Collaborate!
 
